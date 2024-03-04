@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 803051532badc7546a7795b489c6ce17
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: backAnkle_L
+    100002: backAnkle_R
+    100004: backHip_L
+    100006: backHip_R
+    100008: backKnee_L
+    100010: backKnee_R
+    100012: backRump_L
+    100014: backRump_R
+    100016: backToes_L
+    100018: backToes_R
+    100020: backToesEnd_L
+    100022: backToesEnd_R
+    100024: Chest
+    100026: frontAnkle_L
+    100028: frontAnkle_R
+    100030: frontHip_L
+    100032: frontHip_R
+    100034: frontKnee_L
+    100036: frontKnee_R
+    100038: frontRump_L
+    100040: frontRump_R
+    100042: frontToes_L
+    100044: frontToes_R
+    100046: frontToesEnd_L
+    100048: frontToesEnd_R
+    100050: Head
+    100052: HeadEnd
+    100054: Horse_Pieces
+    100056: Horse_Pieces 1
+    100058: Horse_Pieces1
+    100060: Horse_Pieces10
+    100062: Horse_Pieces11
+    100064: Horse_Pieces12
+    100066: Horse_Pieces15
+    100068: Horse_Pieces16
+    100070: Horse_Pieces17
+    100072: Horse_Pieces18
+    100074: Horse_Pieces19
+    100076: Horse_Pieces2
+    100078: Horse_Pieces20
+    100080: Horse_Pieces21
+    100082: Horse_Pieces3
+    100084: Horse_Pieces4
+    100086: Horse_Pieces5
+    100088: Horse_Pieces6
+    100090: Horse_Pieces7
+    100092: Horse_Pieces8
+    100094: Horse_Pieces9
+    100096: Neck
+    100098: Root
+    100100: Spine1
+    100102: Tail0
+    100104: Tail1
+    100106: Tail2
+    100108: Tail3
+    100110: //RootNode
+    400000: backAnkle_L
+    400002: backAnkle_R
+    400004: backHip_L
+    400006: backHip_R
+    400008: backKnee_L
+    400010: backKnee_R
+    400012: backRump_L
+    400014: backRump_R
+    400016: backToes_L
+    400018: backToes_R
+    400020: backToesEnd_L
+    400022: backToesEnd_R
+    400024: Chest
+    400026: frontAnkle_L
+    400028: frontAnkle_R
+    400030: frontHip_L
+    400032: frontHip_R
+    400034: frontKnee_L
+    400036: frontKnee_R
+    400038: frontRump_L
+    400040: frontRump_R
+    400042: frontToes_L
+    400044: frontToes_R
+    400046: frontToesEnd_L
+    400048: frontToesEnd_R
+    400050: Head
+    400052: HeadEnd
+    400054: Horse_Pieces
+    400056: Horse_Pieces 1
+    400058: Horse_Pieces1
+    400060: Horse_Pieces10
+    400062: Horse_Pieces11
+    400064: Horse_Pieces12
+    400066: Horse_Pieces15
+    400068: Horse_Pieces16
+    400070: Horse_Pieces17
+    400072: Horse_Pieces18
+    400074: Horse_Pieces19
+    400076: Horse_Pieces2
+    400078: Horse_Pieces20
+    400080: Horse_Pieces21
+    400082: Horse_Pieces3
+    400084: Horse_Pieces4
+    400086: Horse_Pieces5
+    400088: Horse_Pieces6
+    400090: Horse_Pieces7
+    400092: Horse_Pieces8
+    400094: Horse_Pieces9
+    400096: Neck
+    400098: Root
+    400100: Spine1
+    400102: Tail0
+    400104: Tail1
+    400106: Tail2
+    400108: Tail3
+    400110: //RootNode
+    2100000: Voxel_Horse_material
+    4300000: Horse_Pieces
+    4300002: Horse_Pieces1
+    4300004: Horse_Pieces2
+    4300006: Horse_Pieces3
+    4300008: Horse_Pieces4
+    4300010: Horse_Pieces5
+    4300012: Horse_Pieces6
+    4300014: Horse_Pieces7
+    4300016: Horse_Pieces8
+    4300018: Horse_Pieces9
+    4300020: Horse_Pieces10
+    4300022: Horse_Pieces11
+    4300024: Horse_Pieces12
+    4300026: Horse_Pieces15
+    4300028: Horse_Pieces16
+    4300030: Horse_Pieces17
+    4300032: Horse_Pieces19
+    4300034: Horse_Pieces20
+    4300036: Horse_Pieces21
+    4300038: Horse_Pieces18
+    9500000: //RootNode
+    13700000: Horse_Pieces 1
+    13700002: Horse_Pieces1
+    13700004: Horse_Pieces10
+    13700006: Horse_Pieces11
+    13700008: Horse_Pieces12
+    13700010: Horse_Pieces15
+    13700012: Horse_Pieces16
+    13700014: Horse_Pieces17
+    13700016: Horse_Pieces18
+    13700018: Horse_Pieces19
+    13700020: Horse_Pieces2
+    13700022: Horse_Pieces20
+    13700024: Horse_Pieces21
+    13700026: Horse_Pieces3
+    13700028: Horse_Pieces4
+    13700030: Horse_Pieces5
+    13700032: Horse_Pieces6
+    13700034: Horse_Pieces7
+    13700036: Horse_Pieces8
+    13700038: Horse_Pieces9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: b770c38e709522a4faecbb6b80fbe0e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: backAnkle_L
+    100002: backAnkle_R
+    100004: backHip_L
+    100006: backHip_R
+    100008: backKnee_L
+    100010: backKnee_R
+    100012: backRump_L
+    100014: backRump_R
+    100016: backToes_L
+    100018: backToes_R
+    100020: backToesEnd_L
+    100022: backToesEnd_R
+    100024: Chest
+    100026: frontAnkle_L
+    100028: frontAnkle_R
+    100030: frontHip_L
+    100032: frontHip_R
+    100034: frontKnee_L
+    100036: frontKnee_R
+    100038: frontRump_L
+    100040: frontRump_R
+    100042: frontToes_L
+    100044: frontToes_R
+    100046: frontToesEnd_L
+    100048: frontToesEnd_R
+    100050: Goat_Pieces
+    100052: Goat_Pieces 1
+    100054: Goat_Pieces1
+    100056: Goat_Pieces10
+    100058: Goat_Pieces11
+    100060: Goat_Pieces12
+    100062: Goat_Pieces13
+    100064: Goat_Pieces14
+    100066: Goat_Pieces15
+    100068: Goat_Pieces16
+    100070: Goat_Pieces2
+    100072: Goat_Pieces3
+    100074: Goat_Pieces4
+    100076: Goat_Pieces5
+    100078: Goat_Pieces6
+    100080: Goat_Pieces7
+    100082: Goat_Pieces8
+    100084: Goat_Pieces9
+    100086: Head
+    100088: HeadEnd
+    100090: Neck
+    100092: Root
+    100094: Spine1
+    100096: Tail0
+    100098: Tail1
+    100100: Tail2
+    100102: Tail3
+    100104: //RootNode
+    400000: backAnkle_L
+    400002: backAnkle_R
+    400004: backHip_L
+    400006: backHip_R
+    400008: backKnee_L
+    400010: backKnee_R
+    400012: backRump_L
+    400014: backRump_R
+    400016: backToes_L
+    400018: backToes_R
+    400020: backToesEnd_L
+    400022: backToesEnd_R
+    400024: Chest
+    400026: frontAnkle_L
+    400028: frontAnkle_R
+    400030: frontHip_L
+    400032: frontHip_R
+    400034: frontKnee_L
+    400036: frontKnee_R
+    400038: frontRump_L
+    400040: frontRump_R
+    400042: frontToes_L
+    400044: frontToes_R
+    400046: frontToesEnd_L
+    400048: frontToesEnd_R
+    400050: Goat_Pieces
+    400052: Goat_Pieces 1
+    400054: Goat_Pieces1
+    400056: Goat_Pieces10
+    400058: Goat_Pieces11
+    400060: Goat_Pieces12
+    400062: Goat_Pieces13
+    400064: Goat_Pieces14
+    400066: Goat_Pieces15
+    400068: Goat_Pieces16
+    400070: Goat_Pieces2
+    400072: Goat_Pieces3
+    400074: Goat_Pieces4
+    400076: Goat_Pieces5
+    400078: Goat_Pieces6
+    400080: Goat_Pieces7
+    400082: Goat_Pieces8
+    400084: Goat_Pieces9
+    400086: Head
+    400088: HeadEnd
+    400090: Neck
+    400092: Root
+    400094: Spine1
+    400096: Tail0
+    400098: Tail1
+    400100: Tail2
+    400102: Tail3
+    400104: //RootNode
+    2100000: Voxel_Goat_material1
+    4300000: Goat_Pieces
+    4300002: Goat_Pieces1
+    4300004: Goat_Pieces2
+    4300006: Goat_Pieces3
+    4300008: Goat_Pieces4
+    4300010: Goat_Pieces5
+    4300012: Goat_Pieces6
+    4300014: Goat_Pieces7
+    4300016: Goat_Pieces8
+    4300018: Goat_Pieces9
+    4300020: Goat_Pieces10
+    4300022: Goat_Pieces11
+    4300024: Goat_Pieces12
+    4300026: Goat_Pieces13
+    4300028: Goat_Pieces14
+    4300030: Goat_Pieces15
+    4300032: Goat_Pieces16
+    9500000: //RootNode
+    13700000: Goat_Pieces 1
+    13700002: Goat_Pieces1
+    13700004: Goat_Pieces10
+    13700006: Goat_Pieces11
+    13700008: Goat_Pieces12
+    13700010: Goat_Pieces13
+    13700012: Goat_Pieces14
+    13700014: Goat_Pieces15
+    13700016: Goat_Pieces16
+    13700018: Goat_Pieces2
+    13700020: Goat_Pieces3
+    13700022: Goat_Pieces4
+    13700024: Goat_Pieces5
+    13700026: Goat_Pieces6
+    13700028: Goat_Pieces7
+    13700030: Goat_Pieces8
+    13700032: Goat_Pieces9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

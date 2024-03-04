@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 2e4bbd50423de0245a9d889b3e0224b9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Dog_part
+    100002: Foot_L1
+    100004: Foot_L2
+    100006: Foot_R1
+    100008: Foot_R2
+    100010: Head
+    100012: Head_end
+    100014: Hip_L1
+    100016: Hip_L2
+    100018: Hip_R1
+    100020: Hip_R2
+    100022: Knee_L1
+    100024: Knee_L2
+    100026: Knee_R1
+    100028: Knee_R2
+    100030: Neck
+    100032: polySurface22
+    100034: polySurface23
+    100036: polySurface24
+    100038: polySurface25
+    100040: polySurface26
+    100042: polySurface27
+    100044: polySurface28
+    100046: polySurface29
+    100048: polySurface30
+    100050: polySurface31
+    100052: polySurface32
+    100054: polySurface33
+    100056: polySurface34
+    100058: polySurface35
+    100060: polySurface36
+    100062: polySurface37
+    100064: polySurface38
+    100066: polySurface39
+    100068: polySurface40
+    100070: Root
+    100072: Spine1
+    100074: Spine2
+    100076: Tail1
+    100078: Tail2
+    100080: Tail3
+    100082: Tail4
+    100084: Toes_L1
+    100086: Toes_L2
+    100088: Toes_R1
+    100090: Toes_R2
+    100092: //RootNode
+    100094: Dog_Pieces
+    100096: polySurface41
+    400000: Dog_part
+    400002: Foot_L1
+    400004: Foot_L2
+    400006: Foot_R1
+    400008: Foot_R2
+    400010: Head
+    400012: Head_end
+    400014: Hip_L1
+    400016: Hip_L2
+    400018: Hip_R1
+    400020: Hip_R2
+    400022: Knee_L1
+    400024: Knee_L2
+    400026: Knee_R1
+    400028: Knee_R2
+    400030: Neck
+    400032: polySurface22
+    400034: polySurface23
+    400036: polySurface24
+    400038: polySurface25
+    400040: polySurface26
+    400042: polySurface27
+    400044: polySurface28
+    400046: polySurface29
+    400048: polySurface30
+    400050: polySurface31
+    400052: polySurface32
+    400054: polySurface33
+    400056: polySurface34
+    400058: polySurface35
+    400060: polySurface36
+    400062: polySurface37
+    400064: polySurface38
+    400066: polySurface39
+    400068: polySurface40
+    400070: Root
+    400072: Spine1
+    400074: Spine2
+    400076: Tail1
+    400078: Tail2
+    400080: Tail3
+    400082: Tail4
+    400084: Toes_L1
+    400086: Toes_L2
+    400088: Toes_R1
+    400090: Toes_R2
+    400092: //RootNode
+    400094: Dog_Pieces
+    400096: polySurface41
+    2100000: Voxel_Dog_material6
+    4300000: polySurface22
+    4300002: polySurface23
+    4300004: polySurface24
+    4300006: polySurface25
+    4300008: polySurface26
+    4300010: polySurface27
+    4300012: polySurface28
+    4300014: polySurface29
+    4300016: polySurface30
+    4300018: polySurface31
+    4300020: polySurface32
+    4300022: polySurface33
+    4300024: polySurface34
+    4300026: polySurface35
+    4300028: polySurface36
+    4300030: polySurface37
+    4300032: polySurface38
+    4300034: polySurface39
+    4300036: polySurface40
+    4300038: polySurface41
+    9500000: //RootNode
+    13700000: polySurface22
+    13700002: polySurface23
+    13700004: polySurface24
+    13700006: polySurface25
+    13700008: polySurface26
+    13700010: polySurface27
+    13700012: polySurface28
+    13700014: polySurface29
+    13700016: polySurface30
+    13700018: polySurface31
+    13700020: polySurface32
+    13700022: polySurface33
+    13700024: polySurface34
+    13700026: polySurface35
+    13700028: polySurface36
+    13700030: polySurface37
+    13700032: polySurface38
+    13700034: polySurface39
+    13700036: polySurface40
+    13700038: polySurface41
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Voxel_Dog_material
+    second: {fileID: 2100000, guid: e873119e880d3424d8fc5f974e9939fd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

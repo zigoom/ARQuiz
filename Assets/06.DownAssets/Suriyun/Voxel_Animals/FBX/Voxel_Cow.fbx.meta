@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 6a055dc909390654da44ed9cabbd0945
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cow_Pieces
+    100002: Cow_Pieces 1
+    100004: Cow_Pieces1
+    100006: Cow_Pieces10
+    100008: Cow_Pieces11
+    100010: Cow_Pieces12
+    100012: Cow_Pieces13
+    100014: Cow_Pieces2
+    100016: Cow_Pieces3
+    100018: Cow_Pieces4
+    100020: Cow_Pieces5
+    100022: Cow_Pieces6
+    100024: Cow_Pieces7
+    100026: Cow_Pieces8
+    100028: Cow_Pieces9
+    100030: Foot_L1
+    100032: Foot_L2
+    100034: Foot_R1
+    100036: Foot_R2
+    100038: Head
+    100040: Head_end
+    100042: Hip_L1
+    100044: Hip_L2
+    100046: Hip_R1
+    100048: Hip_R2
+    100050: Knee_L1
+    100052: Knee_L2
+    100054: Knee_R1
+    100056: Knee_R2
+    100058: Neck
+    100060: Root
+    100062: Spine1
+    100064: Spine2
+    100066: Toes_L1
+    100068: Toes_L2
+    100070: Toes_R1
+    100072: Toes_R2
+    100074: //RootNode
+    400000: Cow_Pieces
+    400002: Cow_Pieces 1
+    400004: Cow_Pieces1
+    400006: Cow_Pieces10
+    400008: Cow_Pieces11
+    400010: Cow_Pieces12
+    400012: Cow_Pieces13
+    400014: Cow_Pieces2
+    400016: Cow_Pieces3
+    400018: Cow_Pieces4
+    400020: Cow_Pieces5
+    400022: Cow_Pieces6
+    400024: Cow_Pieces7
+    400026: Cow_Pieces8
+    400028: Cow_Pieces9
+    400030: Foot_L1
+    400032: Foot_L2
+    400034: Foot_R1
+    400036: Foot_R2
+    400038: Head
+    400040: Head_end
+    400042: Hip_L1
+    400044: Hip_L2
+    400046: Hip_R1
+    400048: Hip_R2
+    400050: Knee_L1
+    400052: Knee_L2
+    400054: Knee_R1
+    400056: Knee_R2
+    400058: Neck
+    400060: Root
+    400062: Spine1
+    400064: Spine2
+    400066: Toes_L1
+    400068: Toes_L2
+    400070: Toes_R1
+    400072: Toes_R2
+    400074: //RootNode
+    2100000: Voxel_Cow_material
+    2300000: Cow_Pieces2
+    2300002: Cow_Pieces3
+    3300000: Cow_Pieces2
+    3300002: Cow_Pieces3
+    4300000: Cow_Pieces
+    4300002: Cow_Pieces1
+    4300004: Cow_Pieces2
+    4300006: Cow_Pieces3
+    4300008: Cow_Pieces4
+    4300010: Cow_Pieces5
+    4300012: Cow_Pieces6
+    4300014: Cow_Pieces7
+    4300016: Cow_Pieces8
+    4300018: Cow_Pieces9
+    4300020: Cow_Pieces10
+    4300022: Cow_Pieces11
+    4300024: Cow_Pieces12
+    4300026: Cow_Pieces13
+    9500000: //RootNode
+    13700000: Cow_Pieces 1
+    13700002: Cow_Pieces1
+    13700004: Cow_Pieces10
+    13700006: Cow_Pieces11
+    13700008: Cow_Pieces12
+    13700010: Cow_Pieces13
+    13700012: Cow_Pieces4
+    13700014: Cow_Pieces5
+    13700016: Cow_Pieces6
+    13700018: Cow_Pieces7
+    13700020: Cow_Pieces8
+    13700022: Cow_Pieces9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
