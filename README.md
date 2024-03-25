@@ -9,7 +9,7 @@
   - **소스 관리 -**  Github
   - **시용 디바이스 -**  PC, LG V50, Galaxy S9 Plus  
   - **Unity -** 2019.4.1f Ver 
-  - **IDE -** visual studio community 2019  
+  - **IDE -** Visual Studio Community 2019  
 <br/>
 
 ### 3. 프로젝트 특징  
